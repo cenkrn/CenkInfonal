@@ -15,7 +15,7 @@ The project includes two test cases ;
 should be displayed.
    - n11.com main page should be displayed after login and it shoud be accepted.
 
-       RESULT : There is no error.
+       RESULT : There is no error. 
 
    Writers class : 
      REQUIREMENTS : 3-4-6.
