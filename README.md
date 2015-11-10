@@ -20,7 +20,7 @@ RESULT : There is no error.
    2.Writers class : 
      REQUIREMENTS : 3-4-6.
 
-   - This tests provide pagination control. It control that is last name of page, lists top of second page of 
+   - This tests provide pagination control. It controls that last name of page lists top of second page of 
    writers again?
    - Testing of Book/Writers page.
    - Already Logged Facebook users should enter automatically. 
