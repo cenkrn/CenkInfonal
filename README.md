@@ -33,4 +33,5 @@ RESULT: "N" letter page has defect. (Nihat Genç)
 
    - The project made with using Maven Project.
    - Dependencys added to pom.xml's XML page.
+   - Assertions were written for each main page load.
    - Test cases wrote on Selenium and they run on Eclipse / JUnit.
