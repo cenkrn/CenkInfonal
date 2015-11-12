@@ -20,7 +20,7 @@ RESULT : There is no error.
    2.Writers class : 
      REQUIREMENTS : 3-4-6.
 
-   - This tests provide pagination control. It control that is last name of page, lists top of second page of 
+   - This tests provide pagination control. It controls that last name of page lists top of second page of 
    writers again?
    - Testing of Book/Writers page.
    - Already Logged Facebook users should enter automatically. 
@@ -29,8 +29,12 @@ PRECONDITIONS: The user can be logged in Facebook.
      
    - I,Ç,İ,J,O,Ö,Q,V,W,X,Y and Z letters have one page.
 
-RESULT: "N" letter page has defect. (Nihat Genç)
+- RESULT: There is no defect. 
+   - NOTE : Nihat Genç listed two times in both pages ;
+            He has two different entry in database with different links. 
+            It is a database defect not a pagination.
 
    - The project made with using Maven Project.
    - Dependencys added to pom.xml's XML page.
-   - Test cases wrote on Selenium and they run on Eclipse / JUnit.
+   - Assertions were written for each main page load.
+   - Test cases wrote on Selenium and they run on Eclipse / JUnit4.

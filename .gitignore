@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.project
 *.classpath
 target/*
@@ -6,6 +7,14 @@ target/*
 *.xml
 *.rar
 
+=======
+.settings/*
+target/*
+.classpath
+.preject
+pom.xml
+CenkOranOzdemir_n11.com.rar
+>>>>>>> df9cc5ddc42f3d8307d41743a37327727005c847
 
 # Windows image file caches
 Thumbs.db
