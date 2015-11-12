@@ -12,7 +12,7 @@ import java.util.regex.Pattern;
 
 /* 
    - REQUIREMENTS : 3-4-6 are made. 
-   - SCOPE: 1 - This tests provide pagination control. It control that is last name  
+   - SCOPE: 1 - This tests provide pagination control. It controls that is last name  
 of page, lists top of second page of writers again?
             2 - Testing of Book/Writers page.
             3 - Already Logged Facebook users can enter automatically.
