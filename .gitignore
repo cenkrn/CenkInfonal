@@ -4,6 +4,8 @@ target/*
 .settings/*
 *.iml
 *.xml
+*.rar
+
 
 # Windows image file caches
 Thumbs.db
