@@ -29,9 +29,12 @@ PRECONDITIONS: The user can be logged in Facebook.
      
    - I,Ç,İ,J,O,Ö,Q,V,W,X,Y and Z letters have one page.
 
-RESULT: "N" letter page has defect. (Nihat Genç)
+- RESULT: There is no defect. 
+   - NOTE : Nihat Genç listed two times in both pages ;
+            He has two different entry in database with different links. 
+            It is a database defect not a pagination.
 
    - The project made with using Maven Project.
    - Dependencys added to pom.xml's XML page.
    - Assertions were written for each main page load.
-   - Test cases wrote on Selenium and they run on Eclipse / JUnit.
+   - Test cases wrote on Selenium and they run on Eclipse / JUnit4.
