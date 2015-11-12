@@ -9,7 +9,8 @@ import java.util.regex.Pattern;
 
 
 /*  REQUIREMENTS : 1-2. 
-    SCOPE : Testing of enterance of users with their facebook accounts to site.   
+    SCOPE : Testing of enterance of users with their facebook accounts to site. 
+    RESULT : There is no defect.
                        */
 public class Facebookc {
 
