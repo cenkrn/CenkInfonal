@@ -1,3 +1,9 @@
+.settings/*
+target/*
+.classpath
+.preject
+pom.xml
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
